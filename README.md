@@ -16,7 +16,7 @@ php bin/magento cache:clean
 
 ### Install via zip
 
-* [Download the latest version from GitHub](https://github.com/vrajeshpatel4u/v4u-gst-custom-checkout-field.git)
+* [Download the latest version from GitHub](https://github.com/vrajeshpatel4u/magento2-gst-custom-checkout-field.git)
 
 ## Enable Custom Field (GST Number) On Checkout Page
 
