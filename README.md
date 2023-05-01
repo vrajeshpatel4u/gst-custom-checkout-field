@@ -1,5 +1,5 @@
 # magento2-gst-custom-checkout-field
-Magento2 Checkout Page Custom Field -GST Number
+Magento2 Checkout Page Custom Field - GST Number
 
 
 ## Supports
